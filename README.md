@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nathan VIDAL</h1>
-<h3 align="center">I'm an AI/ML enginee curious about web development and electronics !</h3>
+<h3 align="center">I'm an AI/ML engineer curious about web development and electronics !</h3>
 
 ⚠️ I’m currently working on [My favorite Web Novel translation Website](https://github.com/nathanvid/infinitemage-website) and I’m looking for help with [the translation of the Novel using AI](https://github.com/nathanvid/InfinityMageNovel) ⚠️
 
@@ -8,6 +8,7 @@
 - 📄 Know about my experiences with my LinkedIn: [https://www.linkedin.com/in/nathan-vidal/](https://www.linkedin.com/in/nathan-vidal/)
 
 Technical Stack
+
 💻 Programming Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
